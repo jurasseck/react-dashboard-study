@@ -1,0 +1,7 @@
+.container {
+    width: auto;
+    height: 100vh;
+    background: lightblue;
+    display: flex;
+    flex-direction: row;
+}
